@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1728473755 source:/home/kgn/Desktop/lab_1/arr.cpp
+	"arr.h"
+
+1728473466 /home/kgn/Desktop/lab_1/arr.h
+	<iostream>
+	<sstream>
+
+1728459333 source:/home/kgn/Desktop/lab_1/list.cpp
+	"list.h"
+
+1728473483 /home/kgn/Desktop/lab_1/list.h
+	<string>
+	<iostream>
+
+1728474732 source:/home/kgn/Desktop/lab_1/main.cpp
+	"lab_1.h"
+
+1728459963 /home/kgn/Desktop/lab_1/lab_1.h
+	"Stack.h"
+	"arr.h"
+	"list.h"
+	"singleConnList.h"
+	"queue.h"
+	<fstream>
+
+1728473670 /home/kgn/Desktop/lab_1/Stack.h
+	<iostream>
+	"Node.h"
+
+1728473617 /home/kgn/Desktop/lab_1/Node.h
+	<string>
+
+1728473658 /home/kgn/Desktop/lab_1/singleConnList.h
+	<iostream>
+	"Node.h"
+
+1728473633 /home/kgn/Desktop/lab_1/queue.h
+	<iostream>
+	"Node.h"
+
+1728459449 source:/home/kgn/Desktop/lab_1/queue.cpp
+	"queue.h"
+
+1728459512 source:/home/kgn/Desktop/lab_1/singleConnList.cpp
+	"singleConnList.h"
+
+1728459579 source:/home/kgn/Desktop/lab_1/Stack.cpp
+	"Stack.h"
+
