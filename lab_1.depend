@@ -48,3 +48,37 @@
 1728459579 source:/home/kgn/Desktop/lab_1/Stack.cpp
 	"Stack.h"
 
+1728474732 source:/home/kgn/Desktop/labs/Lab_1/main.cpp
+	"lab_1.h"
+
+1728459963 /home/kgn/Desktop/labs/Lab_1/lab_1.h
+	"Stack.h"
+	"arr.h"
+	"list.h"
+	"singleConnList.h"
+	"queue.h"
+	<fstream>
+
+1728473670 /home/kgn/Desktop/labs/Lab_1/Stack.h
+	<iostream>
+	"Node.h"
+
+1728473617 /home/kgn/Desktop/labs/Lab_1/Node.h
+	<string>
+
+1728473466 /home/kgn/Desktop/labs/Lab_1/arr.h
+	<iostream>
+	<sstream>
+
+1728473483 /home/kgn/Desktop/labs/Lab_1/list.h
+	<string>
+	<iostream>
+
+1728473658 /home/kgn/Desktop/labs/Lab_1/singleConnList.h
+	<iostream>
+	"Node.h"
+
+1728473633 /home/kgn/Desktop/labs/Lab_1/queue.h
+	<iostream>
+	"Node.h"
+
